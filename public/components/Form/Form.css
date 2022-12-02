@@ -1,0 +1,43 @@
+
+.ButtonPassword{
+    width: 400px;
+    height: 60px;
+    border-radius: 5px;
+    position:absolute;
+    background-color:whitesmoke;
+    bottom: 1200px;
+    left: 1500px;
+    margin-top: 260px;
+    border: 50px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+    
+
+
+}
+
+.ButtonUser{
+    width: 400px;
+    height: 60px;
+    border-radius: 5px;
+    position:absolute;
+    background-color:whitesmoke;
+    left: 1500px;
+    bottom: 1300px;
+    margin-top: 180px;
+    border: 50px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+}
+
+.ButtonLogIn{
+    width: 400px;
+    height: 60px;
+    border-radius: 5px;
+    position:absolute;
+    background-color:rgb(42, 132, 250);
+    left: 1500px;
+    top: 210px;
+    margin-top: 365px;
+    border: 50px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+
+}
